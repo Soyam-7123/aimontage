@@ -1,0 +1,7 @@
+streamlit
+opencv-python
+Pillow
+transformers
+torch
+moviepy==1.0.3
+numpy
